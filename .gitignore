@@ -67,3 +67,11 @@ C:\aws_with_terraform\environments\Storage\S3\dev\.terraform
 
 C:\aws_with_terraform\environments\Storage\S3\dev\.terraform.lock.hcl
 environments/Storage/S3/dev/.terraform.lock.hcl
+C:\aws_with_terraform\environments\networking\VPC\dev\.terraform
+C:\aws_with_terraform\environments\networking\VPC\dev\.terraform.lock.hcl
+C:\aws_with_terraform\environments\Compute\EC2\dev\.terraform
+C:\aws_with_terraform\environments\Compute\EC2\dev\.terraform.lock.hcl
+C:\aws_with_terraform\environments\Compute\VPC\dev\.terraform\*
+C:\aws_with_terraform\environments\networking\VPC\dev\.terraform.lock.hcl
+environments/Compute/EC2/dev/.terraform.lock.hcl
+environments/networking/VPC/dev/.terraform.lock.hcl
