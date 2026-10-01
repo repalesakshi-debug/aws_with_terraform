@@ -2,7 +2,7 @@ terraform {
   backend "s3" {
     bucket = "terraform-bucket-sakshi-2"
 
-    key    = "Networking/fctp/dev/vpc/terraform.tfstate"
+    key    = "Compute/fctp/dev/ec2/terraform.tfstate"
 
     region = "eu-west-3"
   }
