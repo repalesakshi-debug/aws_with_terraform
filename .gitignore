@@ -75,3 +75,4 @@ C:\aws_with_terraform\environments\Compute\VPC\dev\.terraform\*
 C:\aws_with_terraform\environments\networking\VPC\dev\.terraform.lock.hcl
 environments/Compute/EC2/dev/.terraform.lock.hcl
 environments/networking/VPC/dev/.terraform.lock.hcl
+environments/security/security-group/dev/.terraform.lock.hcl
