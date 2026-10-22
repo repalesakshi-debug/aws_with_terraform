@@ -26,3 +26,22 @@ variable "aws_region" {
     type = string
   
 }
+
+variable "project_name" {
+  type = string
+}
+
+variable "key_name" {
+  
+}
+variable "ec2_security_group_id" {
+  
+}
+
+variable "root_volume_size" {
+  
+}
+
+variable "root_volume_type" {
+  
+}
